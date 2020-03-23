@@ -1,4 +1,4 @@
-> __Notice:__ This document is a wiki. Help us [and :memo: improve it](https://github.com/bpmn-io/internal-docs/edit/master/design/README.md).
+> __Notice:__ This document is a wiki. Help us [and :memo: improve it](https://github.com/bpmn-io/design-principles/edit/master/README.md).
 
 # Design Principles
 
