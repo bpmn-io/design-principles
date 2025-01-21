@@ -23,7 +23,7 @@ Our editors are domain specific tools with a strong foundation on the standards 
 * __We build upon domain specific modeling rules__ (no tasks in tasks, [no sequence flows across pool boundaries](./images/seq-message-flow.gif)).
 * __We do not support intermediate states__, if they are without representation in target language (free floating connections).
 * __We support users to ensure diagrams stay semantically sound__ (change sequence to message flows and vice versa, ...).
-* __We enforce and/or embrace domain specific modeling conventions__ ([left-to-right](./images/auto-place.gif), top-to-botton, [encoded good practices](./images/create-sub-process.gif))
+* __We enforce and/or embrace domain specific modeling conventions__ ([left-to-right](./images/auto-place.gif), top-to-bottom, [encoded good practices](./images/create-sub-process.gif))
 
 ### Why
 
