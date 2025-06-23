@@ -15,7 +15,7 @@ A summary of some core design principles that are baked into our modeling tools.
 
 ## Editors, not drawing tools
 
-Our editors are domain specific tools with a strong foundation on the standards they support.
+Our editors are domain specific tools with a strong alignment with the standards / foundational mechanisms they support.
 
 ### Examples
 
@@ -30,7 +30,6 @@ Our editors are domain specific tools with a strong foundation on the standards 
 * Guides users in learning and modeling the standards.
 * Setup diagrams for interchange and basic understandability.
 * Prevent unintentional human harm.
-
 
 ## Less is more
 
