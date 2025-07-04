@@ -15,7 +15,7 @@ A summary of some core design principles that are baked into our modeling tools.
 
 ## Editors, not drawing tools
 
-Our editors are domain specific tools with a strong foundation on the standards they support.
+Our editors are domain-specific tools that strongly align with the standards and foundational mechanisms they support.
 
 ### Examples
 
@@ -24,13 +24,13 @@ Our editors are domain specific tools with a strong foundation on the standards 
 * __We do not support intermediate states__, if they are without representation in target language (free floating connections).
 * __We support users to ensure diagrams stay semantically sound__ (change sequence to message flows and vice versa, ...).
 * __We enforce and/or embrace domain specific modeling conventions__ ([left-to-right](./images/auto-place.gif), top-to-bottom, [encoded good practices](./images/create-sub-process.gif))
+* __We ensure our editors support their intended purpose__ (element templates for domain-specific specialization).
 
 ### Why
 
 * Guides users in learning and modeling the standards.
 * Setup diagrams for interchange and basic understandability.
 * Prevent unintentional human harm.
-
 
 ## Less is more
 
