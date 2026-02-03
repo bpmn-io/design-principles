@@ -109,7 +109,7 @@ We do no magic. Using our tools, the user is in control.
 
 * __We are agnostic to modeling styles and conventions__ (i.e. spacing). There is not one standard way to model.
 * __However, we pickup diagram styles and support users in building consistent looking models__ ([auto-place](./images/auto-place.gif), align / distribute, ...).
-* __We are forgiving.__ We rather allow the user to do what they attempt to do than blocking a request. Following up, we do best effort to support their intend and still end up in a valid diagram (drop on flow, change sequence to message flow when moving task across pool boundaries, cf. also [:arrow_right: do the hard work](#do-the-hard-work-to-make-it-simple)).
+* __We are forgiving.__ We rather allow the user to do what they attempt to do than blocking a request. Following up, we do best effort to support their intent and still end up in a valid diagram (drop on flow, change sequence to message flow when moving task across pool boundaries, cf. also [:arrow_right: do the hard work](#do-the-hard-work-to-make-it-simple)).
 
 ### Why
 
