@@ -121,7 +121,7 @@ We do no magic. Using our tools, the user is in control.
 
 * [GOV.UK design principles](https://www.gov.uk/guidance/government-design-principles)
 * [principles.design](https://principles.design/)
-
+* [Laws of UX](https://lawsofux.com/)
 
 
 ---
