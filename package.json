@@ -1,0 +1,39 @@
+{
+  "name": "design-principles",
+  "version": "0.0.0",
+  "description": "bpmn.io design principles",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "all": "npm test",
+    "test": "npm run format -- -f",
+    "format": "remark . -qo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bpmn-io/design-principles.git"
+  },
+  "author": "bpmn.io <https://github.com/bpmn-io>",
+  "devDependencies": {
+    "remark-preset-bpmn-io": "^0.4.0"
+  },
+  "dependencies": {
+    "remark-cli": "^12.0.1"
+  },
+  "remarkConfig": {
+    "settings": {
+      "listItemIndent": "one"
+    },
+    "plugins": [
+      "preset-bpmn-io",
+      [
+        "lint-no-html",
+        false
+      ],
+      [
+        "remark-lint-list-item-indent",
+        "one"
+      ]
+    ]
+  }
+}
