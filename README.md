@@ -39,9 +39,9 @@ Our tools are intentionally minimalistic.
 ### Examples
 
 * __We build upon a minimal set of core modeling concepts__.
-    * Create special elements [via the palette](./images/palette.png)
-    * continue modeling [via the context-pad](./images/context-pad.png)
-    * change elements [via the morph menu](./images/morph-menu.png)
+  * Create special elements [via the palette](./images/palette.png)
+  * continue modeling [via the context-pad](./images/context-pad.png)
+  * change elements [via the morph menu](./images/morph-menu.png)
 * __We expose only a small amount of things to do next__ (see also [:arrow_right: know the context](#know-the-context)).
 
 ### Why
@@ -64,7 +64,6 @@ We understand that using our tools is highly situational, depending on what the 
 
 * Get out of the way as a tool.
 
-
 ## Do the hard work to make it simple
 
 We do a lot of things under the hood so the user does not have to.
@@ -72,7 +71,7 @@ We do a lot of things under the hood so the user does not have to.
 ### Examples
 
 * __We keep the diagram sound, as the user models__ (connection layout and repair on element move, [automatic label move](./images/label-move.gif), infinite canvas and  [automatically origin alignment](./images/align-to-origin.gif)).
-* __However, we do NOT overrule the user__. 
+* __However, we do NOT overrule the user__.
 
 ### Why
 
@@ -81,7 +80,6 @@ We do a lot of things under the hood so the user does not have to.
 * Do not cause frustrating extra work.
 
 See also [:arrow_right: no surprises](#no-surprises).
-
 
 ## No surprises
 
@@ -100,7 +98,6 @@ We aim for predicable, intuitive editing behavior.
 * Automagic changes should have the sole purpose of "getting the tool out of the way"
 * Predicable behavior is a basis of trust and aids learning
 
-
 ## Empower the user
 
 We do no magic. Using our tools, the user is in control.
@@ -116,13 +113,11 @@ We do no magic. Using our tools, the user is in control.
 * Users should be able to learn the implemented standards by doing
 * Users should never be frustrated through changes our tool introduces
 
-
 ## Resources
 
 * [GOV.UK design principles](https://www.gov.uk/guidance/government-design-principles)
 * [principles.design](https://principles.design/)
 * [Laws of UX](https://lawsofux.com/)
-
 
 ---
 
